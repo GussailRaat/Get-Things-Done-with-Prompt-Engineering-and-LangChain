@@ -7,6 +7,9 @@ Build real-world AI apps with ChatGPT/GPT-4 and LangChain in Python
 [![](https://img.shields.io/youtube/channel/subscribers/UCoW_WzQNJVAjxo4osNAxd_g?label=Watch%20on%20YouTube)](https://bit.ly/venelin-subscribe)
 [![](https://img.shields.io/github/license/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain)](https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain/blob/master/LICENSE)
 
+
+- [LIMA: Can you Fine-Tune Large Language Models (LLMs) with Small Datasets? Less Is More for Alignment](https://www.youtube.com/watch?v=-VDtgh6j0Fw)
+
 ## 🍿 Watch on YouTube
 
 - [Getting Started with LangChain and Llama 2 in 15 Minutes](https://www.youtube.com/watch?v=7VAGe32YptI)
